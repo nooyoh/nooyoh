@@ -24,10 +24,10 @@
 `2026.05 ~ 2026.12`
 
 - AVR / STM32 펌웨어 개발
-- Qt 기반 GUI 개발
 - Linux 디바이스 드라이버
-- FPGA (Verilog) RTL 설계
 - 온디바이스 AI
+- Qt 기반 GUI 개발
+- FPGA (Verilog) RTL 설계
 
 ## 🛠 Skills
 
