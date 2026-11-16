@@ -15,7 +15,7 @@
 - 🎓 상명대학교 컴퓨터과학전공 졸업예정 (2027.02)
 - 💼 희망 직무: **Embedded Software / Firmware Engineer**
 - 🔧 관심 분야: **MCU Firmware**, **Robotics**
-<a href="https://nooyoh.github.io">
+- <a href="https://nooyoh.github.io">
   <img src="https://img.shields.io/badge/📂%20Portfolio-nooyoh.github.io-2F80ED?style=for-the-badge" alt="Portfolio"/>
 </a>  
 
