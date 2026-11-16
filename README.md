@@ -2,8 +2,6 @@
 
 # 안녕하세요, 이호윤입니다 👋
 
-**Embedded Software / Firmware Engineer**
-
 <a href="https://nooyoh.github.io">
   <img src="https://img.shields.io/badge/📂%20Portfolio-nooyoh.github.io-2F80ED?style=for-the-badge" alt="Portfolio"/>
 </a>
