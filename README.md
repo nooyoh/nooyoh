@@ -56,10 +56,4 @@
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square)
 ![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=flat-square)
 
----
 
-<div align="center">
-
-📂 **프로젝트 상세 내용은 포트폴리오에서 확인하실 수 있습니다 → [nooyoh.github.io](https://nooyoh.github.io)**
-
-</div>
